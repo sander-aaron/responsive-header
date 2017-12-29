@@ -27,7 +27,7 @@ header {
   width: 100%;
   background-color: #18294f;
   color: #fff;
-  font-family: "Ubuntu", sans-serif;
+  font-family: Ubuntu, sans-serif;
 }
 
 header h1 {
@@ -44,6 +44,7 @@ nav ul {
 nav li {
   list-style: none;
   padding: .5em;
+  width: 100%;
 }
 
 li:hover {
@@ -54,6 +55,7 @@ nav a {
   text-decoration: none;
   color: #6c8fe0;
   padding: .5em;
+  white-space: nowrap;
 }
 
 nav a:hover {
