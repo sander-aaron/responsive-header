@@ -34,6 +34,7 @@ header h1 {
   text-align: center;
   color: #fff;
   font-size: 2rem;
+  margin: .5rem;
 }
 
 nav ul {
@@ -82,6 +83,10 @@ nav a:hover {
   html {
     font-size: 110%;
     line-height: 1.4;
+  }
+
+  nav li {
+    width: 25%;
   }
 }
 
