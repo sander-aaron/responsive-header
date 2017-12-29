@@ -75,6 +75,7 @@ nav a:hover {
     float: left;
     display: inline-block;
     width: 50%;
+    text-align: center;
   }
 }
 
@@ -95,6 +96,15 @@ nav a:hover {
   html {
     font-size: 120%;
     line-height: 1.5;
+  }
+
+  header h1 {
+    float: left;
+  }
+
+  nav li {
+    float: right;
+    width: 18%;
   }
 }
 
